@@ -171,7 +171,7 @@ header {
     width: 100%;
     height: 75vh;
 
-    background: url('./assets/img/moon2.webp');
+    background: url("./assets/img/moon2.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
